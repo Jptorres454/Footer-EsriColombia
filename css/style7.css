@@ -1,10 +1,15 @@
 .col_white_amrc { 
-    color:#FFF;
+    color:#ffffff;
+}
+
+img{
+    width: 16rem;
+    margin: 50px;
 }
 
 footer { 
     width:100%; 
-    background-color:#263238; 
+    background-color:#2b2b2b; 
     min-height:250px; 
     padding:10px 0px 25px 0px ;
 }
@@ -16,7 +21,7 @@ footer {
 
 footer p { 
     font-size:13px; 
-    color:#CCC; 
+    color:#ffffff; 
     padding-bottom:0px; 
     margin-bottom:8px;
 }
@@ -37,11 +42,11 @@ footer p {
 }
 
 .footer_ul_amrc li a{ 
-    color:#CCC;
+    color:#ffffff;
 }
 
 .footer_ul_amrc li a:hover{ 
-    color:#fff; 
+    color:#d4d4d4; 
     text-decoration:none;
 }
 
@@ -72,7 +77,7 @@ footer p {
 }
 
 .bottom_border { 
-    border-bottom:1px solid #323f45; 
+    border-bottom:1px solid #7e7e7e; 
     padding-bottom:20px;
 }
 
@@ -91,7 +96,7 @@ footer p {
 }
 
 .foote_bottom_ul_amrc li a { 
-    color:#999; 
+    color:#a5a5a5; 
     margin:0 12px;
 }
 
@@ -108,8 +113,8 @@ footer p {
 }
 
 .social_footer_ul li a { 
-    color:#CCC;
-    border:1px solid #CCC;
+    color:#ffffff;
+    border:1px solid #ffffff;
     padding:8px;
     border-radius:50%;
 }
